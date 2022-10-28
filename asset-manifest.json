@@ -1,14 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.f4c3ca1e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.339c5bcb.chunk.css",
+    "main.js": "/static/js/main.829646c1.chunk.js",
+    "main.js.map": "/static/js/main.829646c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.66725223.js",
+    "runtime-main.js.map": "/static/js/runtime-main.66725223.js.map",
+    "static/css/2.5d259885.chunk.css": "/static/css/2.5d259885.chunk.css",
+    "static/js/2.0c107dde.chunk.js": "/static/js/2.0c107dde.chunk.js",
+    "static/js/2.0c107dde.chunk.js.map": "/static/js/2.0c107dde.chunk.js.map",
     "index.html": "/index.html",
-    "main.f4c3ca1e.js.map": "/static/js/main.f4c3ca1e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "static/css/2.5d259885.chunk.css.map": "/static/css/2.5d259885.chunk.css.map",
+    "static/css/main.339c5bcb.chunk.css.map": "/static/css/main.339c5bcb.chunk.css.map",
+    "static/js/2.0c107dde.chunk.js.LICENSE.txt": "/static/js/2.0c107dde.chunk.js.LICENSE.txt",
+    "static/media/Sunil_Resume.168faf28.pdf": "/static/media/Sunil_Resume.168faf28.pdf",
+    "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
+    "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
+    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
+    "static/media/dropship.b52fa0a1.jpg": "/static/media/dropship.b52fa0a1.jpg",
+    "static/media/goodFoodDiscounts.9b9dd889.png": "/static/media/goodFoodDiscounts.9b9dd889.png",
+    "static/media/hsp.40c6e624.png": "/static/media/hsp.40c6e624.png",
+    "static/media/pic.d2d8310d.jpeg": "/static/media/pic.d2d8310d.jpeg",
+    "static/media/techspec.3b34aad0.png": "/static/media/techspec.3b34aad0.png",
+    "static/media/travelwell.772033dc.png": "/static/media/travelwell.772033dc.png"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.f4c3ca1e.js"
+    "static/js/runtime-main.66725223.js",
+    "static/css/2.5d259885.chunk.css",
+    "static/js/2.0c107dde.chunk.js",
+    "static/css/main.339c5bcb.chunk.css",
+    "static/js/main.829646c1.chunk.js"
   ]
 }
