@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.339c5bcb.chunk.css",
-    "main.js": "/static/js/main.ba2dd1a7.chunk.js",
-    "main.js.map": "/static/js/main.ba2dd1a7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.66725223.js",
-    "runtime-main.js.map": "/static/js/runtime-main.66725223.js.map",
-    "static/css/2.5d259885.chunk.css": "/static/css/2.5d259885.chunk.css",
-    "static/js/2.e3c339eb.chunk.js": "/static/js/2.e3c339eb.chunk.js",
-    "static/js/2.e3c339eb.chunk.js.map": "/static/js/2.e3c339eb.chunk.js.map",
+    "main.css": "/static/css/main.f6ef644f.chunk.css",
+    "main.js": "/static/js/main.346f992c.chunk.js",
+    "main.js.map": "/static/js/main.346f992c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e20f4197.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e20f4197.js.map",
+    "static/css/2.d988b45c.chunk.css": "/static/css/2.d988b45c.chunk.css",
+    "static/js/2.b0e8cdb4.chunk.js": "/static/js/2.b0e8cdb4.chunk.js",
+    "static/js/2.b0e8cdb4.chunk.js.map": "/static/js/2.b0e8cdb4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.5d259885.chunk.css.map": "/static/css/2.5d259885.chunk.css.map",
-    "static/css/main.339c5bcb.chunk.css.map": "/static/css/main.339c5bcb.chunk.css.map",
-    "static/js/2.e3c339eb.chunk.js.LICENSE.txt": "/static/js/2.e3c339eb.chunk.js.LICENSE.txt",
+    "static/css/2.d988b45c.chunk.css.map": "/static/css/2.d988b45c.chunk.css.map",
+    "static/css/main.f6ef644f.chunk.css.map": "/static/css/main.f6ef644f.chunk.css.map",
+    "static/js/2.b0e8cdb4.chunk.js.LICENSE.txt": "/static/js/2.b0e8cdb4.chunk.js.LICENSE.txt",
     "static/media/Juber_Shaikh_Resume.004dfeb2.pdf": "/static/media/Juber_Shaikh_Resume.004dfeb2.pdf",
+    "static/media/School.e9762059.png": "/static/media/School.e9762059.png",
     "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
     "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
     "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
@@ -24,10 +25,10 @@
     "static/media/travelwell.772033dc.png": "/static/media/travelwell.772033dc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.66725223.js",
-    "static/css/2.5d259885.chunk.css",
-    "static/js/2.e3c339eb.chunk.js",
-    "static/css/main.339c5bcb.chunk.css",
-    "static/js/main.ba2dd1a7.chunk.js"
+    "static/js/runtime-main.e20f4197.js",
+    "static/css/2.d988b45c.chunk.css",
+    "static/js/2.b0e8cdb4.chunk.js",
+    "static/css/main.f6ef644f.chunk.css",
+    "static/js/main.346f992c.chunk.js"
   ]
 }
