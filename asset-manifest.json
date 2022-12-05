@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f6ef644f.chunk.css",
-    "main.js": "/static/js/main.939d1075.chunk.js",
-    "main.js.map": "/static/js/main.939d1075.chunk.js.map",
+    "main.js": "/static/js/main.1f2a985c.chunk.js",
+    "main.js.map": "/static/js/main.1f2a985c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e20f4197.js",
     "runtime-main.js.map": "/static/js/runtime-main.e20f4197.js.map",
     "static/css/2.d988b45c.chunk.css": "/static/css/2.d988b45c.chunk.css",
@@ -14,21 +14,21 @@
     "static/js/2.532b04ff.chunk.js.LICENSE.txt": "/static/js/2.532b04ff.chunk.js.LICENSE.txt",
     "static/media/Juber_Shaikh_Resume.004dfeb2.pdf": "/static/media/Juber_Shaikh_Resume.004dfeb2.pdf",
     "static/media/School.e9762059.png": "/static/media/School.e9762059.png",
-    "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
-    "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
+    "static/media/coschedule.732b3978.PNG": "/static/media/coschedule.732b3978.PNG",
     "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
     "static/media/dropship.b52fa0a1.jpg": "/static/media/dropship.b52fa0a1.jpg",
     "static/media/goodFoodDiscounts.9b9dd889.png": "/static/media/goodFoodDiscounts.9b9dd889.png",
     "static/media/hsp.40c6e624.png": "/static/media/hsp.40c6e624.png",
+    "static/media/ideacart.584e3f2c.PNG": "/static/media/ideacart.584e3f2c.PNG",
+    "static/media/onestop.6386a782.PNG": "/static/media/onestop.6386a782.PNG",
     "static/media/pic.d2d8310d.jpeg": "/static/media/pic.d2d8310d.jpeg",
-    "static/media/techspec.3b34aad0.png": "/static/media/techspec.3b34aad0.png",
-    "static/media/travelwell.772033dc.png": "/static/media/travelwell.772033dc.png"
+    "static/media/techspec.3b34aad0.png": "/static/media/techspec.3b34aad0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e20f4197.js",
     "static/css/2.d988b45c.chunk.css",
     "static/js/2.532b04ff.chunk.js",
     "static/css/main.f6ef644f.chunk.css",
-    "static/js/main.939d1075.chunk.js"
+    "static/js/main.1f2a985c.chunk.js"
   ]
 }
